@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-beachresort/static/css/main.05f85369.chunk.css",
-    "main.js": "/react-beachresort/static/js/main.7a101051.chunk.js",
-    "main.js.map": "/react-beachresort/static/js/main.7a101051.chunk.js.map",
+    "main.js": "/react-beachresort/static/js/main.691de250.chunk.js",
+    "main.js.map": "/react-beachresort/static/js/main.691de250.chunk.js.map",
     "runtime-main.js": "/react-beachresort/static/js/runtime-main.96bf72b8.js",
     "runtime-main.js.map": "/react-beachresort/static/js/runtime-main.96bf72b8.js.map",
     "static/js/2.14102b48.chunk.js": "/react-beachresort/static/js/2.14102b48.chunk.js",
     "static/js/2.14102b48.chunk.js.map": "/react-beachresort/static/js/2.14102b48.chunk.js.map",
     "index.html": "/react-beachresort/index.html",
-    "precache-manifest.5d6b7cc084d20b509f3b12355bccf9d3.js": "/react-beachresort/precache-manifest.5d6b7cc084d20b509f3b12355bccf9d3.js",
+    "precache-manifest.5e53308ec6739bef2a869c23a45417c6.js": "/react-beachresort/precache-manifest.5e53308ec6739bef2a869c23a45417c6.js",
     "service-worker.js": "/react-beachresort/service-worker.js",
     "static/css/main.05f85369.chunk.css.map": "/react-beachresort/static/css/main.05f85369.chunk.css.map",
     "static/js/2.14102b48.chunk.js.LICENSE": "/react-beachresort/static/js/2.14102b48.chunk.js.LICENSE",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.96bf72b8.js",
     "static/js/2.14102b48.chunk.js",
     "static/css/main.05f85369.chunk.css",
-    "static/js/main.7a101051.chunk.js"
+    "static/js/main.691de250.chunk.js"
   ]
 }
