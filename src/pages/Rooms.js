@@ -14,7 +14,7 @@ class Rooms extends Component {
                     >
                         <Link
                             className="btn-primary"
-                            to="/">
+                            to="/react-beachresort">
                             Return Home
                     </Link>
                     </Banner>

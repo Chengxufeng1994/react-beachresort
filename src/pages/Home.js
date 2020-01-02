@@ -17,7 +17,7 @@ class Home extends Component {
                         subtitle="deluxe rooms starting at $299">
                         <Link
                             className="btn-primary"
-                            to="/rooms">
+                            to="/react-beachresort/rooms">
                             Our rooms
                         </Link>
                     </Banner>

@@ -18,9 +18,9 @@ function App() {
       <NavBar />
       <Switch>
         {/* exact控制匹配到/路徑時不會再繼續向下匹配 */}
-        <Route exact path="/" component={Home}></Route>
-        <Route exact path="/rooms/" component={Rooms}></Route>
-        <Route exact path="/rooms/:slug" component={SingleRoom}></Route>
+        <Route exact path="/react-beachresort" component={Home}></Route>
+        <Route exact path="/react-beachresort/rooms/" component={Rooms}></Route>
+        <Route exact path="/react-beachresort/rooms/:slug" component={SingleRoom}></Route>
         <Route component={Error}></Route>
       </Switch>
     </div>

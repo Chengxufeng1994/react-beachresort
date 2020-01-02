@@ -16,7 +16,7 @@ class Room extends Component {
                     </div>
                     <Link
                         className="btn-primary room-link"
-                        to={`/rooms/${slug}`}>
+                        to={`/react-beachresort/rooms/${slug}`}>
                         Features
                     </Link>
                 </div>

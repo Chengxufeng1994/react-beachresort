@@ -28,7 +28,7 @@ class SingleRoom extends Component {
                     <h3>no such room could be found...</h3>
                     <Link
                         className='btn-primary'
-                        to='/rooms'>
+                        to='/react-beachresort/rooms'>
                         back to rooms
                     </Link>
                 </div>

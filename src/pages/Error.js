@@ -12,7 +12,7 @@ class Error extends Component {
                     subtitle="Page Not Found">
                     <Link
                         className="btn-primary"
-                        to="/">
+                        to="/react-beachresort">
                         Return Home
                     </Link>
                 </Banner>
